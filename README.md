@@ -1,5 +1,6 @@
 ### Hi there 👋, I am ASHER
 
+Having 19 years of experience in software product and project management. Worked on more than 100 technical projects. Overseen complete software development life cycle. JavaScript is my new love so working as a Full Stack JavaScript Developer at the moment.
 <!--
 **raja-muhammad-asher/raja-muhammad-asher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
