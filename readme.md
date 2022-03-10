@@ -3,7 +3,7 @@
 Over 19 years of experience in web development with solid understanding of frontend technologies, MVC frameworks, REST APIs, GraphQL and Database designing. Build Single Page Applications with React.js for client side, Node.js/Express for server side and MongoDB for database. Develop REST APIs or GraphQL with Express and NodeJS. A result-oriented professional with good communication, leadership, team management, analytical and coordination skills.
 
 ### Skills
-JavaScript, HTML5, CSS3, React, Redux, Styled-Components, React Devtools, Redux Devtools, Jest, Cypress, Node.js, Express.js, MongoDB, Mongoose, Apollo GraphQL, Git, Github, Heroku, Cloudinary, Continuous Integration/Continuous Deployment, Unit Testing, Integration Testing, Agile Scrums, Waterfall.
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E), HTML5, CSS3, React, Redux, Styled-Components, React Devtools, Redux Devtools, Jest, Cypress, Node.js, Express.js, MongoDB, Mongoose, Apollo GraphQL, Git, Github, Heroku, Cloudinary, Continuous Integration/Continuous Deployment, Unit Testing, Integration Testing, Agile Scrums, Waterfall.
 
 <!--
 **raja-muhammad-asher/raja-muhammad-asher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
