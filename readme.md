@@ -10,7 +10,7 @@ Over 15 years of experience in web development with solid understanding of front
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about JavaScript & MERN Stack
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am working to grow my bicep beyond 18"
+- ⚡ Fun fact: I am working to grow my bicep over 18"
 
 <!--
 **raja-muhammad-asher/raja-muhammad-asher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
