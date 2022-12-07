@@ -7,7 +7,7 @@ Over 15 years of experience in web development with solid understanding of front
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on Open Source projects
+- 👯 I’m looking to collaborate on Open Source MERN Stack projects
 - 💬 Ask me about JavaScript & MERN Stack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am working to grow my bicep over 18"
