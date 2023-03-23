@@ -12,6 +12,14 @@ MERN Stack developer with a solid understanding of frontend technologies, MVC fr
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: During pomodoro breaks I walk to shed extra pounds off my body
 
+### Open to
+- Work
+- Mentorship
+- Blog writing
+- Freelance projects
+- Promotion oppurtunities
+- Collaborations to build something great
+
 <!--
 **raja-muhammad-asher/raja-muhammad-asher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
